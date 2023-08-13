@@ -1,0 +1,116 @@
+﻿<ZT2Strings>
+<entityname>
+   <!--animal names-->
+      <Dacant>Acanthodes</Dacant>
+      <Dacant_stt>Acanthodes</Dacant_stt>
+      <Dacant_lower>El Acanthodes</Dacant_lower>
+      <Dacant_ltt>
+         <color r="255" g="248" b="178">
+            <b>Acanthodes</b>
+         </color>
+         <br/>
+         Haga clic y seleccione el Acanthodes, un pez del Permico.
+      </Dacant_ltt>
+</entityname>
+<zoopedia_dacant>
+ <entry>Acanthodes Gracilis</entry>
+ <text>
+  <cell pady="0" width="1000"/>
+  <p/>
+  <cell width="260"/>
+  <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+   <cell width="600" padx="20" pady="20">
+   
+               <cell width="284">
+						 <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/Dacant/Dacant_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/extinct.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Estado de conservacion:
+                     <br/>
+                        <color r="0" g="255" b="0">
+                      Extinto
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>   
+   
+    <cell width="128">
+     <color r="255" g="255" b="255">Costa<br/></color>
+     <img src="ui/icon_biomes/icon_pelagic.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+    </cell>
+    <cell width="128">
+     <color r="255" g="255" b="255">Aguas dulces y saladas<br/></color> 
+     <img src="ui/icon_maplocations/pelagic_warm_oceans_worldwide.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+    </cell>
+    <br/>
+    <cell width="284" pady="10">
+     <color r="255" g="255" b="255">Clase: Acanthodii <i>(Peces espinosos)</i><br/>Orden: Acanthodiformes <i>(Acanthodios)</i><br/>Familia: Acanthodidae <i>(Acanthodes)</i><br/>Genero: <i>Acanthodes</i><br/>Especie: <i>A. Gracilis</i>
+     </color>
+    </cell>
+    <cell width="256" pady="10">
+     <img src="UI/zoopedia/biome/pelagic_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+    </cell>
+   </cell>
+  </cell>
+  <p/>
+  <p/>
+  <cell width="260"/>
+  <cell width="300">
+   <cell width="64">
+    <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+   </cell>
+   <cell width="176">
+    <color r="255" g="255" b="255">
+     <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Datos divertidos del Acanthodes</font>
+    </color>
+   </cell>
+   <p/>
+   <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+    <p/>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Este Acanthodes es el primer pez acantodio para zoo tycoon 2.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Vivió en el permico.</color>
+    </cell>
+  </cell>
+  </cell>
+  <cell width="340">
+   <color r="255" g="248" b="178">
+    Para adoptar un Acanthodes se necesitan 1/2 estrellas de fama en el zoo.
+   </color>
+   <p/>Acanthodes Gracilis es una de las 18 especies del genero Acanthodes que se han encontrado. Esta especie es destacada por ser muy delgada, eso le da el nombre de Gracilis. A parte de ser un pez esbelto tambien tenia unas orbitas oculares grandes. Su rasgo mas caracteristico son las dos puas que tiene en la panza, no es una caracteristica de este solo pez, es una caracteristica de todos los peces acantodios. Este pez solia medir unos 30 centimetros, como casi todos los peces del genero. Es un pez que podia nadar tanto en aguas dulces de la epoca como en el mar.
+
+   <p/>
+
+   <p/>
+   
+   </cell>
+  <p/>
+  <cell width="260"/>
+  <cell width="620">
+   Contenido de google books
+  <p/>Imago
+  </cell>
+ </text>
+</zoopedia_dacant>
+</ZT2Strings>

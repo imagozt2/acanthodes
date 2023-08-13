@@ -1,0 +1,35 @@
+<BFTypedBinder binderType="Dacant_Young_M">
+   <types>
+      <entity>
+         <actor>
+            <animal>
+               <Actinopterygii>
+                  <Perciformes>
+                     <Istiophoridae>
+                        <Dacant>
+                           <Dacant_Young>
+                              <Dacant_Young_M/>
+                           </Dacant_Young>
+                        </Dacant>
+                     </Istiophoridae>
+                  </Perciformes>
+               </Actinopterygii>
+            </animal>
+         </actor>
+      </entity>
+   </types>
+   <instance>
+      <BFGEntity/>
+   </instance>
+   <shared>
+      <UIToggleButton template="adopt">
+         <UIAspect>
+            <default image="entities\units\animals\Dacant\Dacant_Adult_F_icon.dds"/>
+         </UIAspect>
+         <on>
+            <event msg="ZT_SETPLACEMENTOBJECT" data="BFString" string="Dacant_Young_M"/>
+         </on>
+      </UIToggleButton>
+      <BFAIEntityDataShared b_Male="1"/>
+   </shared>
+</BFTypedBinder>
